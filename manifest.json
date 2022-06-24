@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Flipkart Price Tracker",
+  "version": "1.0.0",
+
+  "action": {
+    "default_icon": {
+      "16": "resource/16*16.ico",
+      "24": "resource/24*24.ico",
+      "32": "resource/32*32.ico"
+    },
+    "default_title": "Click Me to start",
+    "default_popup": "src/index.html"
+  },
+  "description": "A extension to notify you about the price drops on flipkart",
+  "icons": {
+    "128": "resource/flipkart-logo-39903.png"
+  },
+  "author": "k3ys"
+}
